@@ -1,0 +1,11 @@
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\obj\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.csprojAssemblyReference.cache
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\obj\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.AssemblyInfoInputs.cache
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\obj\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.AssemblyInfo.cs
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\bin\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.exe
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\bin\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.deps.json
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\bin\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.runtimeconfig.json
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\bin\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.runtimeconfig.dev.json
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\bin\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.dll
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\bin\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.pdb
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\obj\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.dll
+C:\Users\Mladen\source\repos\Homeworks\Homework_No.1_Це_Шарп\obj\Debug\netcoreapp3.1\Homework_No.1_and_2_Це_Шарп.pdb
