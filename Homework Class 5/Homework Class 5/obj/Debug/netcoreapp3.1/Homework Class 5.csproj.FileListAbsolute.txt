@@ -1,0 +1,11 @@
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\obj\Debug\netcoreapp3.1\Homework Class 5.csprojAssemblyReference.cache
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\obj\Debug\netcoreapp3.1\Homework Class 5.AssemblyInfoInputs.cache
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\obj\Debug\netcoreapp3.1\Homework Class 5.AssemblyInfo.cs
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\bin\Debug\netcoreapp3.1\Homework Class 5.exe
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\bin\Debug\netcoreapp3.1\Homework Class 5.deps.json
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\bin\Debug\netcoreapp3.1\Homework Class 5.runtimeconfig.json
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\bin\Debug\netcoreapp3.1\Homework Class 5.runtimeconfig.dev.json
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\bin\Debug\netcoreapp3.1\Homework Class 5.dll
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\bin\Debug\netcoreapp3.1\Homework Class 5.pdb
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\obj\Debug\netcoreapp3.1\Homework Class 5.dll
+C:\Users\Mladen\Desktop\Homework Class 5\Homework Class 5\Homework Class 5\obj\Debug\netcoreapp3.1\Homework Class 5.pdb
